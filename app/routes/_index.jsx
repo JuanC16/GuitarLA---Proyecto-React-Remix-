@@ -4,7 +4,7 @@ import {getPosts} from '~/models/posts.server'
 import { getCurso } from '~/models/curso.server'
 import ListadoGuitarras from '~/components/listado-guitarras'
 import ListadoPosts from '~/components/listado-posts'
-import Curso from '~/components/Curso'
+import Curso from '../components/curso'
 import stylesGuitarras from "~/styles/guitarras.css"
 import stylesPosts from "~/styles/blog.css"
 import stylesCurso from "~/styles/curso.css"
